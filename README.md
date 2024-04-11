@@ -9,5 +9,8 @@ HTML, CSS, Vue.js e Javascript
 
 https://youtu.be/UBirvx0C3Fs
 
+## Live Application
+Test the aplication on this website: https://gerenciadordegastos.netlify.app
+
 
 
